@@ -68,10 +68,10 @@ section {
 
 .card {
   background-color: #505050;
-  padding: 20px;
-  margin-bottom: 20px;
+  padding: 10px;
+  margin-bottom: 10px;
   animation: cardAnimation 1s ease;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 @keyframes cardAnimation {
